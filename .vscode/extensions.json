@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",        // 파이썬 지원
+    "ms-python.vscode-pylint", // 파이썬 코드 검사
+    "bradlc.vscode-tailwindcss", // Tailwind CSS 자동완성
+    "esbenp.prettier-vscode",  // 코드 자동 정렬
+    "dsznajder.es7-react-js-snippets" // React 코드 조각
+  ]
+}
